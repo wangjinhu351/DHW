@@ -32,22 +32,6 @@
       "timeout": 10
     },
     {
-      "key": "玩偶",
-      "name": "👽玩偶┃4K",
-      "type": 3,
-      "api": "csp_Wogg",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "token": "file://TV/ali_token.txt",
-        "cookie": "file://TV/quark_cookie.txt",
-        "uc_cookie": "file://TV/uc_cookie.txt",
-        "wogg": true
-      },
-      "timeout": 30
-    },
-    {
       "key": "天天",
       "name": "⛅️天天┃直连",
       "type": 3,
@@ -479,17 +463,6 @@
         "type": "rect",
         "ratio": 1.755
       },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "timeout": 10
-    },
-    {
-      "key": "聚短视频js",
-      "name": "📽️聚短┃视频",
-      "type": 3,
-      "api": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720319529030/drpy2.min.txt?file=drpy2.min.js",
-      "ext": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1720581024411/duanshipin.txt",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
